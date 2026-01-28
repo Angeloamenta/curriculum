@@ -27,7 +27,7 @@ export default function Home() {
 
           <div className="lg:col-span-4 relative min-h-[600px] lg:min-h-full border-b border-black lg:border-b-0 bg-neutral-100 group overflow-hidden">
             <InteractiveImage
-              src="/img/aa.png"
+              src="/img/Gemini_Generated_Image_x2o16fx2o16fx2o1.png"
               fill
               className="absolute inset-0 w-full h-full"
               alt="Angelo Amenta"

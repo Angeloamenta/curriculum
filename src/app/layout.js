@@ -10,6 +10,9 @@ const inter = Inter({
 export const metadata = {
   title: "Angelo Amenta - CV",
   description: "Senior Frontend Developer & Designer",
+  icons: {
+    icon: "/img/e4b2d049-185a-499c-b2e0-d3fbbc13d90c.png",
+  },
 };
 
 export default function RootLayout({ children }) {
