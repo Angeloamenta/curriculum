@@ -9,15 +9,13 @@ const inter = Inter({
 
 export const metadata = {
   title: "Angelo Amenta - CV",
-  description: "Senior Frontend Developer & Designer",
-  icons: {
-    icon: "/img/e4b2d049-185a-499c-b2e0-d3fbbc13d90c.png",
-  },
+  description: "Frontend Developer & Designer",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+
       <body
         className={`${inter.variable} font-sans antialiased bg-stone-100 text-stone-950 cursor-none`}
       >
